@@ -1,4 +1,4 @@
-export const URL_SERVER = "http://localhost:5000";
+export const URL_SERVER = "https://booking-food-be.onrender.com";
 
 export const LIST_PERMISSION = [
   {
